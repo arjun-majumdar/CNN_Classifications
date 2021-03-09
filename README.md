@@ -7,6 +7,7 @@ Repository to contain common Computer Vision related topics and CNN architecture
 1. Computer Vision mathematical theory - Batch normalization cancellation
 2. Exponentially weighted average
 3. LeNet-5 CNN
-4. Conv-6 CNN (VGG styled CNN)
-5. ResNet-18 CNN
-6. Implementing Fully-Connected layer(s) as convolutional layer(s)
+4. Training a CNN using TensorFlow2 - 'tf.GradientTape'
+5. Conv-6 CNN (VGG styled CNN)
+6. ResNet-18 CNN
+7. Implementing Fully-Connected layer(s) as convolutional layer(s)
