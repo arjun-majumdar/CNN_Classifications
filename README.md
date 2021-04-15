@@ -12,6 +12,7 @@ Repository to contain common Computer Vision related topics and CNN architecture
 6. ResNet-18/34 CNN
 7. VGG-16 (val_acc = 88.39%) CNN
 8. Implementing Fully-Connected layer(s) as convolutional layer(s)
+9. Learning rate: decay, warmup and scheduler
 
 
 __NOTE:__ For most of these conv nets, extensive hyper-parameter tuning needs to be performed.
