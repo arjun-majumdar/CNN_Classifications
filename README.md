@@ -14,4 +14,4 @@ Repository to contain common Computer Vision related topics and CNN architecture
 8. VGG-18 (val_acc = 89.63%) - TF2 (linear warmup + step-decay) learning rate scheduler with _tf.GradientTape_
 9. Implementing Fully-Connected layer(s) as convolutional layer(s)
 10. Learning rate: decay, warmup and scheduler
-
+11. Implementing pruning (structured vs. unstructures, layer-wise vs. global) in PyTorch by using "torch.nn.utils.prune" for different architectures
