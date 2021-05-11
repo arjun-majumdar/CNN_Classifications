@@ -15,4 +15,4 @@ Repository to contain common Computer Vision related topics and CNN architecture
 9. Implementing Fully-Connected layer(s) as convolutional layer(s)
 10. Learning rate: decay, warmup and scheduler
 11. Implementing pruning (structured vs. unstructures, layer-wise vs. global) in PyTorch by using "torch.nn.utils.prune" for different architectures
-12. Transfer Learning (ResNet-50) on CIFAR-10; val_acc = 92.55%
+12. Transfer Learning (ResNet-50) on CIFAR-10; val_acc = 92.58%
