@@ -17,5 +17,4 @@ Repository to contain common Computer Vision related topics and CNN architecture
 11. VGG-18 (CIFAR-10 val_acc = 92.92% from scratch) - PyTorch (linear warmpup + step decay) learning rate scheduler
 12. Implementing Fully-Connected layer(s) as convolutional layer(s)
 13. Learning rate: decay, warmup and scheduler
-14. Implementing pruning (structured vs. unstructures, layer-wise vs. global) in PyTorch by using "torch.nn.utils.prune" for different architectures
-15. Transfer Learning (ResNet-50) on CIFAR-10; val_acc = 92.58%
+14. Transfer Learning (ResNet-50) on CIFAR-10; val_acc = 92.58%
