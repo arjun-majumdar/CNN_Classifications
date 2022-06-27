@@ -1,6 +1,6 @@
-# Computer Vision and Convolutional Neural Network
+# Computer Vision with Deep Learning
 
-Repository to contain common Computer Vision related topics and CNN architectures using TensorFlow 2 and PyTorch.
+Repository for Computer Vision related topics and applications using DL frameworks, viz., TensorFlow 2 and PyTorch.
 
 
 ### Work done so far:
@@ -12,9 +12,10 @@ Repository to contain common Computer Vision related topics and CNN architecture
 6. ResNet-18 (CIFAR-10 val_acc = 92.1% from scratch) - PyTorch
 7. ResNet-34 (CIFAR-10 val_acc = 92.41% from scratch) - PyTorch
 8. ResNet-50 (CIFAR-10 val_acc = 93.85% from scratch) - PyTorch
-9. VGG-16 (CIFAR-10 val_acc = 88.39%) - TF2
+9. VGG-16/17 (CIFAR-10 val_acc = 88.39%) - TF2; val accuracy = 92.42% (PyTorch 1.11)
 10. VGG-18 (CIFAR-10 val_acc = 89.63%) - TF2 (linear warmup + step-decay) learning rate scheduler with _tf.GradientTape_
 11. VGG-18 (CIFAR-10 val_acc = 92.92% from scratch) - PyTorch (linear warmpup + step decay) learning rate scheduler
 12. Implementing Fully-Connected layer(s) as convolutional layer(s)
 13. Learning rate: decay, warmup and scheduler
 14. Transfer Learning (ResNet-50) on CIFAR-10; val_acc = 92.58%
+15. Object Localization from scratch using _emoji_ dataset and TF-2.8
