@@ -12,7 +12,7 @@ Repository for Computer Vision related topics and applications using DL framewor
 6. ResNet-18 - PyTorch & TensorFlow2
 7. ResNet-34 - PyTorch
 8. ResNet-50 - PyTorch
-9. VGG-16/17 - TF2; val accuracy = 92.42% (PyTorch 1.11)
+9. VGG-16/17 - TF2 - PyTorch 1.11
 10. VGG-18 - TF2 (linear warmup + step-decay) learning rate scheduler with _tf.GradientTape_
 11. VGG-18 - PyTorch (linear warmpup + step decay) learning rate scheduler
 12. Implementing Fully-Connected layer(s) as convolutional layer(s)
