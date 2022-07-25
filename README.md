@@ -9,7 +9,7 @@ Repository for Computer Vision related topics and applications using DL framewor
 3. LeNet-5 CNN
 4. Training a CNN using TensorFlow2 - 'tf.GradientTape' API
 5. Conv-6 CNN (VGG styled CNN)
-6. ResNet-18 - PyTorch
+6. ResNet-18 - PyTorch & TensorFlow2
 7. ResNet-34 - PyTorch
 8. ResNet-50 - PyTorch
 9. VGG-16/17 - TF2; val accuracy = 92.42% (PyTorch 1.11)
