@@ -12,7 +12,7 @@ Repository for Computer Vision related topics and applications using DL framewor
 6. InceptionNet-v1 CNN (PyTorch)
 7. ResNet-18 - PyTorch & TensorFlow2
 8. ResNet-34 - PyTorch
-9. ResNet-50 - PyTorch
+9. ResNet-50 - PyTorch (swish/relu activation functions)
 10. VGG-16/17 - TF2 - PyTorch 1.11
 11. VGG-18 - TF2 (linear warmup + step-decay) learning rate scheduler with _tf.GradientTape_
 12. VGG-18 - PyTorch (linear warmpup + step decay) learning rate scheduler
