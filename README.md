@@ -9,7 +9,7 @@ Repository for Computer Vision related topics and applications using DL framewor
 3. LeNet-5 CNN
 4. Training a CNN using TensorFlow2 - 'tf.GradientTape' API
 5. Conv-6 CNN (VGG styled CNN)
-6. Inception-v1 CNN (PyTorch)
+6. InceptionNet-v1 CNN (PyTorch)
 7. ResNet-18 - PyTorch & TensorFlow2
 8. ResNet-34 - PyTorch
 9. ResNet-50 - PyTorch
